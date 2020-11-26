@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Yet Another Colored Outlines Mod
 
-## Setup
+An extremely simple mod to make block outlines visible against any color block.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Ever had trouble mining the correct block of obsidian or black concrete? This mod makes the outline color change depending on the block type.
